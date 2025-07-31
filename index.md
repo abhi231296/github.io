@@ -3,11 +3,17 @@ layout: default
 title: Abhishek Shashikant Chaudhari
 ---
 
-# 👋 Hi, I'm Abhishek
-
-I'm a materials scientist and device engineer with hands-on experience in nanomaterial synthesis, thin-film fabrication, and optoelectronic device development.  
-This portfolio highlights my research projects, data-analysis scripts, and tools for semiconductor device characterization.
-
+<table>
+<tr>
+  <td><img src="IMG_4350.JPG" alt="Abhishek Chaudhari" width="120" style="border-radius: 10px;"></td>
+  <td>
+    <h1>👋 Hi, I'm Abhishek</h1>
+    <p>
+      I'm a materials scientist and device engineer with hands-on experience in nanomaterial synthesis, thin-film fabrication, and optoelectronic device development.
+    </p>
+  </td>
+</tr>
+</table>
 ## 🔬 Featured Projects
 - [Silicon Nanocrystal LEDs](https://github.com/abhichaudhari/SiNC-LED)
 - [TRPL Data Analysis](https://github.com/abhichaudhari/TRPL-Toolkit)
