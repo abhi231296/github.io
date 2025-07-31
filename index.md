@@ -5,7 +5,7 @@ title: Abhishek Shashikant Chaudhari
 
 <table>
 <tr>
-  <td><img src="IMG_4350.JPG" alt="Abhishek Chaudhari" width="120" style="border-radius: 10px;"></td>
+  <td><img src="IMG_4350.JPG" alt="Abhishek Chaudhari" width="120" style="border-radius: 40px;"></td>
   <td>
     <h1>👋 Hi, I'm Abhishek</h1>
     <p>
